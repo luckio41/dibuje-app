@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Dibuje</string>
+
+    <!-- APP -->
+    <string name="loading">Cargando</string>
+
+    <!-- Login -->
+    <string name="etUser">Tu Usuario</string>
+    <string name="etPass">Tu Contraseña</string>
+    <string name="btLogin">Entrar</string>
+    <string name="sbLogin">Works!</string>
+    <string name="sbNoSession">Inicia sesión para jugar</string>
+    <string name="auth_failed">Los datos no coinciden</string>
+    <string name="btRegistrate">Registrate</string>
+
 </resources>
